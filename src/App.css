@@ -106,7 +106,7 @@ button {
     flex: 1 1 100%;
   }
   button {
-    padding: 10px;
+    padding: 17px;
     background-color: #007bff;
     color: #fff;
     border-radius: 4px;
@@ -114,10 +114,7 @@ button {
     margin-left: 1px;
   }
 
-  .i1 {
-    width: 60%;
-    margin-right: 5px;
-  }
+
   
   .weather-app-container {
     box-shadow: none;
@@ -137,7 +134,8 @@ button {
   }
   
   .i1 {
-    width: 60%;
+    width: 85%;
+    padding: 18px;
     margin-right: 4px;
     outline: none;
   }
