@@ -126,7 +126,7 @@ const WeatherApp = () => {
 
   return (
     <div className={`weather-app-container ${loading ? 'loading' : ''}`}>
-     <h1 className="h1">patel.com</h1>
+     <h1 className="h1">weather info.com</h1>
 
       {loading && (
         <div className="loading-spinner">
